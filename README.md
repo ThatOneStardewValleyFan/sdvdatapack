@@ -1,3 +1,7 @@
 # sdvdatapack
+By ThatOneStardewVallyeFan
+# Translation
 it_IT is translated by me
-The creator of the datapack is NOT me.
+# Who created the datapack?
+The creator of the datapack is NOT me.                                                                                           
+The creator of the datapack is ThatOneStardewVallyeFan
